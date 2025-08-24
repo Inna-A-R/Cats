@@ -35,7 +35,7 @@ label = Label()
 label.pack()
 
 update_button = Button(text='Обновить', command=set_image)
-update_button.pack
+update_button.pack()
 
 url = 'https://cataas.com/cat'
 
